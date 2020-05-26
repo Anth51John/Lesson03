@@ -18,10 +18,7 @@
 		margin: 0;
 		padding: 0;
 		box-sizing: border-box;
-		
-		
 		width: 100%;
-		
 	}
 	
 	header{
@@ -47,6 +44,12 @@
 	.about-paragraph{
 		padding: 20px; 
 	}
+	
+	.myContent{
+		width: 950px;
+		margin: 0 auto;
+	}
+	
 /* ------- Feature Projects ------- */
 
 	section{
